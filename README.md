@@ -22,7 +22,10 @@
 
 ## 🚀 Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,java,php,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,angular,nodejs,java,kotlin" />
+
+</p>
+<p>    <img src="https://skillicons.dev/icons?i=nodejs,figma,php,mongodb,mysql,firebase,c,notion" />
 </p>
 
 ---
@@ -33,15 +36,6 @@
 </p>
 
 ---
-
-## 📌 Pinned Projects
-Here are some of my public repositories:
-
-- **[MindWell](https://github.com/estabrekhammouda/mindwell)** — TypeScript, React Native, Node.js  
-- **[FLIX](https://github.com/estabrekhammouda/flix)** — JavaScript, HTML, CSS  
-- **[Elite Robotique Dashboard](https://github.com/estabrekhammouda/elite-robotique-platform)** — TypeScript, Angular, Spring Boot  
-- **[Hospital Management System](https://github.com/estabrekhammouda/hospital-management-system)** — Java, MySQL  
-- **[Test de Niveau en Robotique](https://github.com/estabrekhammouda/robotics-quiz)** — JavaScript, Firebase  
 
 ---
 
